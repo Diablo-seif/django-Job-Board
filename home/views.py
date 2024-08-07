@@ -1,5 +1,5 @@
 from django.shortcuts import render
 
 # Create your views here.
-def job (request) :
-    pass
+def home_view (request):
+        pass
